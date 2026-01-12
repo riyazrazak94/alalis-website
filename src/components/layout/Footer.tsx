@@ -156,7 +156,7 @@ export default function Footer() {
                 </div>
                 <div className="text-slate-400 text-sm space-y-1">
                   <a href={`tel:${PHONE_NUMBER}`} className="hover:text-white transition-colors block">+974 4486 4702</a>
-                  <a href={`tel:${WHATSAPP_NUMBER}`} className="hover:text-white transition-colors block">+974 5562 2006</a>
+                  <a href={`tel:${WHATSAPP_NUMBER}`} className="hover:text-white transition-colors block">+974 3132 3393</a>
                   <a href={`tel:${PHONE_NUMBER_2}`} className="hover:text-white transition-colors block">+974 7008 9595</a>
                 </div>
               </li>

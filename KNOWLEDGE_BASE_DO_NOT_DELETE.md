@@ -32,7 +32,7 @@
 ### Company Info
 - **Company:** Al Alis Building Materials & Electricals
 - **Phone:** +974 4486 4702
-- **WhatsApp:** +974 5562 2006
+- **WhatsApp:** +974 3132 3393
 - **Email:** sales@alalistrading.com
 - **Location:** Omar bin Al Khattab Street, Madinat Khalifa South 34, Doha, Qatar
 

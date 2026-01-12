@@ -22,7 +22,7 @@ export default function ProductsPage() {
   return (
     <>
       {/* Hero Section */}
-      <section className="bg-linear-to-br from-[#0f172a] via-[#1e3a5f] to-[#1e40af] text-white py-24 relative overflow-hidden">
+      <section className="bg-linear-to-br from-[#0f172a] via-[#1e3a5f] to-[#1e40af] text-white pt-24 pb-32 md:py-24 relative overflow-hidden">
         {/* Background decoration */}
         <div className="absolute inset-0 opacity-10">
           <div className="absolute top-0 left-1/4 w-96 h-96 bg-white rounded-full blur-3xl" />

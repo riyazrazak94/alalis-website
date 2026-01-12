@@ -61,7 +61,7 @@ ${formData.message}`;
   return (
     <>
       {/* Hero Section */}
-      <section className="bg-linear-to-br from-[#0f172a] via-[#1e3a5f] to-[#1e40af] text-white py-24 relative overflow-hidden">
+      <section className="bg-linear-to-br from-[#0f172a] via-[#1e3a5f] to-[#1e40af] text-white pt-24 pb-32 md:py-24 relative overflow-hidden">
         {/* Background decoration */}
         <div className="absolute inset-0 opacity-10">
           <div className="absolute top-0 left-1/4 w-96 h-96 bg-white rounded-full blur-3xl" />
@@ -97,7 +97,7 @@ ${formData.message}`;
               <h3 className="text-xl font-bold text-slate-900 mb-3">Call Us</h3>
               <div className="space-y-2">
                 <a href={`tel:${PHONE_NUMBER}`} className="block text-[#1e40af] hover:text-[#3b82f6] font-medium transition-colors">+974 4486 4702</a>
-                <a href={`tel:${WHATSAPP_NUMBER}`} className="block text-[#1e40af] hover:text-[#3b82f6] font-medium transition-colors">+974 5562 2006</a>
+                <a href={`tel:${WHATSAPP_NUMBER}`} className="block text-[#1e40af] hover:text-[#3b82f6] font-medium transition-colors">+974 3132 3393</a>
                 <a href={`tel:${PHONE_NUMBER_2}`} className="block text-[#1e40af] hover:text-[#3b82f6] font-medium transition-colors">+974 7008 9595</a>
               </div>
             </div>

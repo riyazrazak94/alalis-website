@@ -1,6 +1,6 @@
 export const COMPANY_NAME = "Al Alis Building Materials & Electricals";
 export const COMPANY_SHORT_NAME = "Al Alis";
-export const WHATSAPP_NUMBER = "+97455622006";
+export const WHATSAPP_NUMBER = "+97431323393";
 export const PHONE_NUMBER = "+97444864702";
 export const PHONE_NUMBER_2 = "+97470089595";
 export const EMAIL = "sales@alalistrading.com";
