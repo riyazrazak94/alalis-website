@@ -26,7 +26,7 @@
 - **Framework:** Next.js 16 (React 19)
 - **Styling:** Tailwind CSS
 - **Domain:** https://www.alalistrading.com
-- **Status:** 🚧 PRE-PRODUCTION
+- **Status:** ✅ LIVE
 - **Repository:** https://github.com/riyazrazak94/alalis-website
 
 ### Company Info
